@@ -1,7 +1,7 @@
 # Abstract Syntax Tree (AST) & Babel Learning
 
 ## What is Babel?
-Babel is a powerful JavaScript compiler that:
+Babel is a powerful JavaScript compiler that
 - Transforms modern JavaScript (ES6+) into backwards compatible code
 - Enables JSX transformation for React
 - Allows custom code transformations through plugins
